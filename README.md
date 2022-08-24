@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @StephenBCoding
-- 👀 I’m interested in Coding, CS50, Gaming, and Buisness.
+- 👀 I’m interested in Coding, CS50, Gaming, and Mathematics.
 - 🌱 I’m currently learning CS50.
 - 💞️ I’m looking to collaborate on Nothing right now.
 - 📫 How to reach me, Don't.
